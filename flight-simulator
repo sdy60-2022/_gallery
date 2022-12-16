@@ -1,4 +1,5 @@
 title: F-18 flight simulator
+ author: vkaragia
  year: 1998
  image_url: /images/f18-simulator.jpg
  caption: Ο προσομοιωτής πτήσης είναι μια συσκευή που αναδημιουργεί τεχνητά την πτήση του αεροσκάφους και το περιβάλλον στο οποίο πετάει, 
@@ -13,7 +14,8 @@ title: F-18 flight simulator
  license_url: "[https://en.wikipedia.org/wiki/Flight_simulator#/media/File:980310-N-7355H-003_Simulator_Training.jpg](https://en.wikipedia.org/wiki/Flight_simulator#/media/File:980310-N-7355H-003_Simulator_Training.jpg)" 
  license_text: Wikipedia https://en.wikipedia.org/wiki/Flight_simulator
  categories: 
-  -Εργαλεία
+  - Εργαλεία
+  - Εικονική Πραγματικότητα
   tags: 
    -Εξομοίωση
    -Προσομοίωση
