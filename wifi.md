@@ -1,14 +1,15 @@
 ---
 author: panoskam
-title: Bluetooth IoT πρωτόκολλο
-year: 1994 
+title: WiFi IoT πρωτόκολλο
+year: 1997 
 image_url: /images/wifi.jpg
-caption: Ένα iBeacon βασίζεται στη τεχνολογία Bluetooth.
-license_url: "https://www.flickr.com/photos/jnxyz/13571235544/in/photolist-mFf8vJ-mFcZFF-mFf8ZQ-mFcTjF-mFeCaQ-mFeDbN-mFdoKz-mFeyU1-mFcKic-mFexr1-mFeyq5-mFdtU2-mFeWWh-mFdagF-mFf7vN-mFcVyH-mFd43t-mFcTct-mFdd6R-mFdtv6-mFcChi-mFd8UV-mFcDrx-mFf3Uu-mFd19T-mFeFjf-mFeEPh-mFcZwF-mFf4QC-mFeJcQ-mFeByj-mFd4BV-mFeQRS-xyWDyH-yuSZV7-qp6Kyh-mFd6mZ-mFdoe4-mFdncp-mFd68k-mFdaBx-mFezDC-mFeGXW-mFd9eF-mFd9HM-mFf3eb-mFcPbn-mFcEuV-raLFBP-oYvEHN"
-license_text: jnxyz, flickr
+caption: Μία κάρτα Wifi τύπου CardBus 32bit.
+license_url: "https://www.flickr.com/photos/remysharp/9624642666/in/photolist-fEuNWW-e5kpzb-e5iBBA-fsLgBc-2irDAVV-4onQgc-e5daix-dde28H-4UsD9x-fcjvtW-JSXUR-9nPNRR-xxnDU4-yufRze-yufRtn-yrWk8w-xxnDVM-eKVoia-e5kqWU-88oJev-8UF34E-88oL4c-4onQL2-5xgUtt-wubC3n-Qraokg-8dH4rU-5X9uMJ-zrfJTt-8UTS6d-evRGZK-5if2RT-2fV9PCB-5oGkzS-BDFzyW-7XnDJt-4d8cTh-6S1DkL-4UseNz-5X5g4k-5SRWzy-q68q5Z-5C8Lve-3eRnN-8FhxVQ-a8FdCi-2hbqQdM-NMAHqv-7HdmJM-kwt3U"
+license_text: remysharp, flickr
 categories:
   - Πρωτόκολλα IoT
 tags:
-  - Jaap Haartsen
-  - iBeacon
+  - Netgear
+  - Wifi
+  - LAN
 ---

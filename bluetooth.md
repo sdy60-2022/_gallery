@@ -11,4 +11,5 @@ categories:
 tags:
   - Jaap Haartsen
   - iBeacon
+  - PAN
 ---

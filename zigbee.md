@@ -11,4 +11,6 @@ categories:
 tags:
   - Digi
   - XBee
+  - Zigbee
+  - LAN
 ---
